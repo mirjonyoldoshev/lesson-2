@@ -1,0 +1,104 @@
+.us__container {
+    width: 1010px;
+}
+
+.us__tatil {
+    margin-top: 51px;
+    color: rgb(21, 20, 20);
+    font-size: 54px;
+    font-weight: 770;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.us__text {
+    color: rgb(59, 67, 62);
+    font-size: 24px;
+    font-weight: 750;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 62px;
+}
+
+.us__card {
+    width: 275px;
+
+}
+
+.us__card_tatil {
+    color: rgb(24, 29, 25);
+    font-size: 28px;
+    font-weight: 770;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 18px;
+    margin-top: 42px;
+}
+
+
+.us__card_text {
+    color: rgb(112, 122, 114);
+    font-size: 18px;
+    font-weight: 750;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.us__img {
+    margin-left: 75px;
+
+}
+
+.us__box {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+.boxs {
+    width: 701px;
+}
+
+.navbar__container {
+    width: 701px;
+    margin-top: 60px;
+    // display: flex;
+    // align-items: center;
+    // gap: 150px;
+}
+
+.nav_tatil {
+    color: rgb(0, 0, 0);
+    font-size: 44px;
+    font-weight: 780;
+    line-height: 55px;
+    letter-spacing: 0%;
+    // text-align: center;
+}
+
+.nav_text {
+    color: rgb(84, 84, 84);
+    font-size: 16px;
+    font-weight: 760;
+    line-height: 25px;
+    letter-spacing: 0%;
+    // text-align: center;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    .nav__content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}

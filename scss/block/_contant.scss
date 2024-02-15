@@ -1,0 +1,53 @@
+.contact__tatil{
+color: rgb(21, 20, 20);
+font-size: 36px;
+font-weight: 770;
+line-height: 45px;
+text-align: center;
+margin-bottom: 15px;
+}
+.contact__taxt{
+    color: rgb(59, 67, 62);
+    font-size: 20px;
+    font-weight: 750;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.contact__box{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 350px;
+}
+.contact_input{
+box-sizing: border-box;
+border: 1.5px solid rgb(245, 245, 245);
+border-radius: 165px;
+background-color: rgb(255, 255, 255);
+padding-top: 19px;
+padding-bottom: 19px;
+padding-left: 166px;
+padding: 20px;
+
+}
+.contact__btn{
+    border-radius: 50px;
+
+/* green gradient */
+background-color:  rgb(100, 187, 71);
+padding: 16px 32px 16px 32px;
+border: none;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-weight: 400;
+line-height: 27px;
+text-align: center;
+&:hover{
+    background-color:  rgb(69, 73, 67);
+}
+}
+.contact__contact{
+    margin-bottom: 150px;
+    margin-top: 104px;
+}

@@ -1,0 +1,79 @@
+.special__container{
+width: 1170px;
+}
+.special__card{
+    width: 365px;
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 50px;
+}
+
+.special_img{
+padding-left: 50px;
+padding-top: 50px;
+padding-bottom: 30px;
+}
+.special__tatil{
+color: rgb(21, 20, 20);
+font-size: 50px;
+font-weight: 770;
+line-height: 68px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 140px;
+}
+.special__texct{
+color: rgb(99, 109, 103);
+font-size: 18px;
+font-weight: 750;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 15px;
+margin-bottom: 60px;
+}
+
+.special__card_tatil{
+color: rgb(24, 29, 25);
+font-size: 25px;
+font-weight: 770;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+}
+.special__card_text{
+color: rgb(99, 109, 103);
+font-size: 18px;
+font-weight: 750;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 50px;
+}
+.special__box{
+    display: flex;
+    align-items: center;
+    gap: 51px;
+}
+.special__card_btn{
+ padding-top: 16px;
+padding-bottom: 16px;
+padding-left: 63px;
+padding-right: 63px;
+border-radius: 50px;
+border: none;
+background-color: rgb(100, 187, 71);
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 60px;
+margin-left: 450px;
+margin-bottom: 120px;
+&:hover{
+    background-color: rgb(99, 109, 103);
+}
+}

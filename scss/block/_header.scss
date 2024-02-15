@@ -1,0 +1,56 @@
+.header__container{
+   margin-top: 48px;
+}
+.header__content{
+    display: flex;
+    align-items: center;
+    gap: 160px;
+}
+
+.header__list{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.header_imgs{
+    display: flex;
+    align-items: center;
+    gap: 29px;
+}
+
+.header_item{
+color: rgb(44, 56, 71);
+font-size: 20px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+
+&:hover{
+    color: rgb(95, 184, 72);
+}
+}
+
+.header__btn{
+padding-top: 14px;
+padding-bottom: 14px;
+padding-right: 30px;
+padding-left: 30px;
+color: rgb(255, 255, 255);
+font-size: 20px;
+font-weight: 400;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+border-radius: 27px;
+background-color: rgb(73, 73, 73);
+border: none;
+transition: .2s;
+&:hover{
+    background-color: rgb(95, 184, 72);
+}
+}
+
+
+
+
